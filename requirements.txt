@@ -1,0 +1,10 @@
+pypdf
+transformers
+sentence_transformers
+faiss_cpu
+gradio
+langchain
+openai
+huggingface_hub
+tiktoken
+python-dotenv
