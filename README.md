@@ -1,6 +1,6 @@
 **Nutri-Mate Nutritional Chatbot** 🥗🤖
 
-Project-Test Link
+[Project-Test Link](https://huggingface.co/spaces/Priyanshu2907/Nutri-Mate)
 
 **Overview**
 Welcome to the Nutritional Chatbot! This cutting-edge conversational AI tool is your personal guide to all things health and nutrition. Powered by Python, Gradio, OpenAI, and Hugging Face's transformer models, this chatbot provides an interactive platform for users to ask questions, receive personalized responses, and gain valuable insights into their dietary habits and wellness goals. Leveraging advanced technologies such as FAISS vector space for efficient document retrieval and Hugging Face's word embeddings for semantic understanding, our chatbot delivers accurate and timely information tailored to your specific inquiries. Deployed on Hugging Face Spaces, it's never been easier to access, share, and benefit from the expertise of our nutritional chatbot!
